@@ -1,2 +1,0 @@
-../Core/Src/L298N.c:11:6:left_motor_drive	16	static
-../Core/Src/L298N.c:34:6:right_motor_drive	16	static
