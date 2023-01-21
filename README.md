@@ -8,10 +8,10 @@ Additional board: Freescale KL05Z32
 Main board is used for Line Follower code
 Additional board controls a display that displays driving mode (Line Follower mode or remote control mode)
     and lights up with an LED:
-                            Red color - driving right
-                            Green color - driving left
-                            Yellow color - driving straight
-                            Blue color - IR remote control mode
+<br>                         - Red color - driving right
+<br>                         - Green color - driving left
+<br>                         - Yellow color - driving straight
+<br>                         - Blue color - IR remote control mode
 
 Additional board "knows" what mode is using by STM board because there is communication between the boards.
 
