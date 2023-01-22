@@ -1,7 +1,7 @@
 # Projekt-DL
 Projekt
 
-<br> <br>
+<br>
 
 This project contains codes for two boards:
 * Main board: STM Nucleo-L053R8
@@ -24,7 +24,9 @@ The projects were done in 2 different IDEs:
 <br>
 <br>
 
+***
 
+<br>
 Main board is used for Line Follower code
 Additional board controls a display that displays driving mode (Line Follower mode or remote control mode)
     and lights up with an LED:
